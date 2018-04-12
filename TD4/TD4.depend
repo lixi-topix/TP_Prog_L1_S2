@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522943749 source:/home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1522944372 /home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD4/functions.h
+
+1522944606 source:/home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD4/functions.c
+	<string.h>
+	"functions.h"
+

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1523551670 source:/home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/main.c
+	<stdio.h>
+	<stdlib.h>
+	"StackLL.h"
+
+1522948367 /home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/StackArray.h
+
+1522949937 /home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/QueueArray.h
+
+1522950026 source:/home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/QueueArray.c
+	"QueueArray.h"
+	<stdio.h>
+	<stdlib.h>
+
+1522948354 source:/home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/StackArray.c
+	"StackArray.h"
+	<stdio.h>
+	<stdlib.h>
+
+1523550358 source:/home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/QueueLL.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueLL.h"
+
+1523548049 /home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/QueueLL.h
+
+1523550903 /home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/StackLL.h
+
+1523551621 source:/home/karsten/Documents/Cours/EFREI/L1/Semestre 2/Programmation/TD5/StackLL.c
+	<stdio.h>
+	<stdlib.h>
+	"StackLL.h"
+
